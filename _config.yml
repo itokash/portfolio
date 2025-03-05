@@ -1,6 +1,9 @@
 title: Isabelle Tokash
 #logo: 
-description: Certified Azure Data Scientist /n Programming Languages: ***
+description: |
+  Certified Azure Data Scientist
+  Python Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn 
+  Currently working as a Program Manager at Microsoft Health & Life Sciences
 
 #show_downloads: true
 theme: jekyll-theme-minimal
