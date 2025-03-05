@@ -1,11 +1,12 @@
 title: Isabelle Tokash
 #logo: 
 description: |
-  Certified Azure Data Scientist
-  
-  Python Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn 
-  
-  Currently working as a Program Manager at Microsoft Health & Life Sciences
+  This is a description
+
+  that spans multiple lines.
+
+  Each new line has a space in between.
+
 
 #show_downloads: true
 theme: jekyll-theme-minimal
